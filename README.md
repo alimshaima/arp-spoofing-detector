@@ -21,7 +21,7 @@ ARP spoofing (ARP poisoning) allows attackers on a local network to intercept, m
 
 ```bash
 # Clone repository
-git clone https://github.com/YOUR_USERNAME/arp-spoofing-detector.git
+git clone https://github.com/alimshaima/arp-spoofing-detector.git
 
 # Navigate to folder
 cd arp-spoofing-detector
