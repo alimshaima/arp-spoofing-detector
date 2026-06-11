@@ -39,11 +39,11 @@ sudo python sniffer.py   # Linux/Mac
 python sniffer.py        # Windows (as Administrator)
 
 ### Sample Output
-========================================
+
   Advanced Packet Sniffer
   + ARP Spoofing Detector
   Running... Press Ctrl+C to stop
-========================================
+
 [*] New device | IP: 192.168.1.1 | MAC: aa:bb:cc:dd:ee:ff
 [+] Normal ARP | IP: 192.168.1.2 | MAC: 11:22:33:44:55:66
 [TCP] 192.168.1.5 -> 142.250.185.46 | Port: 443
